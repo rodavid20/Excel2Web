@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Info>
+    <DataEntryPage>https://cdr.manipal.edu/Faculty/ProjectsGuided.aspx</DataEntryPage>
+    <LoginPage>https://cdr.manipal.edu</LoginPage>
+    <StartingRow>1</StartingRow>
+    <SubmitButtonId>Button1</SubmitButtonId>
+  </Info>
+  <Columns>
+    <Column>
+      <ExcelColumnNumber>7</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_txtIntershipDetails</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>9,10,11,14,15,16,17,18,19</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_txtOrgDetails</HtmlName>
+    </Column>    
+    <Column>
+      <ExcelColumnNumber>6</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_txtFromDate</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>7</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_txtToDate</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>2</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_Grid_AuthorEntry_EmployeeCode_0</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>3</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_Grid_AuthorEntry_AuthorName_0</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>20</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_Grid_AuthorEntry_InstitutionName_0</HtmlName>
+    </Column>    
+    <Column>
+      <ExcelColumnNumber>21</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_Grid_AuthorEntry_DepartmentName_0</HtmlName>
+    </Column>
+    <Column>
+      <ExcelColumnNumber>22</ExcelColumnNumber>
+      <HtmlName>ContentPlaceHolder1_ddlIndustry</HtmlName>
+    </Column>
+  </Columns>
+</Template>
